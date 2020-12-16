@@ -19,10 +19,6 @@ I'm a Freelance developper, France.
 
 ---
 
-#### :watch: Weekly development breakdown
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helixar&layout=compact&theme=dracula)](https://github.com/Helixar/)
-
-
 #### :star: My favorite languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helixar&layout=compact&theme=dracula)](https://github.com/Helixar/)
 
