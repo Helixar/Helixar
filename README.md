@@ -7,6 +7,7 @@ I'm a Freelance developper, France.
 -   :hammer_and_pick: Javascript / Typescript / PHP / C# / Ruby
 -   :package: [Laravel](https://github.com/laravel) | [Vuejs](https://github.com/vuejs/vue) | [Rollup](https://github.com/rollup/rollup)
 -   :pencil2: Debian / Intellij Ultimate / Fish
+-   :computer: Xeon E5 / 32GB ram / dual ssd / Windows + Wsl    
 -   :man: Pronouns: he/him
 
 ---
