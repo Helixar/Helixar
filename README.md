@@ -15,7 +15,7 @@ I'm a Freelance developper, France.
 #### :sparkles: My repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Helixar&repo=laravel-skeleton&theme=dracula)](https://github.com/Helixar/laravel-skeleton)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Helixar&repo=spotlight-typescript&theme=dracula)](https://github.com/Helixar/spotlight-typescript)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Helixar&repo=laraconsole&theme=dracula)](https://github.com/Helixar/spotlight-typescript)
 
 ---
 
